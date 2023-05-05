@@ -2,23 +2,23 @@
 
 ## Screenshots
 
-![preview img](/preview.png)
+![preview img](/Preview.png)
 
 ## Run Locally
 
-Clone the project
+Clone the project-akhir
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/ecommerce-youtube.git project-name
+  git clone https://adifrans@bitbucket.org/adifrans2201/tugas_akhir.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd project-name
+  cd project-akhir
 ```
 
--   Copy .env.example file to .env and edit database credentials there
+-   Copy .env and edit database credentials there
 
 ```bash
     composer install
@@ -29,7 +29,7 @@ Go to the project directory
 ```
 
 ```bash
-    php artisan artisan migrate:fresh --seed
+    php artisan migrate:fresh --seed
 ```
 
 ```bash
@@ -38,5 +38,7 @@ Go to the project directory
 
 #### Login
 
--   email = admin@example.com
+admin
+
+-   email = admin@kelompok4.com
 -   password = 123
